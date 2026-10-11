@@ -1,0 +1,9 @@
+#Environment variable:
+.env.*
+/.env
+
+# Playwright reports and artifacts:
+reports/
+test-results/
+playwright-report/
+blob-report/
