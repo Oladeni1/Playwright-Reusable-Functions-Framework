@@ -21,7 +21,7 @@ module.exports = {
 
   },
   onsHomePage: {
-    url_ons_stg: 'https://www.staging.onsdigital.co.uk/',
+    url_ons: 'https://www.ons.gov.uk/',
     onsLogo: '//body/header/div[2]/div/div[1]/a/img'
 
   }
